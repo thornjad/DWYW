@@ -1,5 +1,5 @@
                     DO WHATEVER YOU WANT License
-                      Version 0.9, October 2017
+                      Version 0.91, October 2017
 
 Copyright (c) 2017 Jade Thornton
 
@@ -10,7 +10,5 @@ subject to only the following conditions:
 0. This copyright notice and permission notice must appear in all copies
 1. That's it, just do whatever you want
 
-The software is provided "as is" without any warranty whatsoever, 
-including any implied warranties of merchantability and fitness. In no event
-shall the author be liable for any damages whatsoever arising from or in
-connection with the use or performance of this software.
+This program is free software. The software is provided "as is" without 
+any warranty whatsoever, to the extent permitted by law.
