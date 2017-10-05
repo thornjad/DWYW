@@ -1,14 +1,14 @@
                     DO WHATEVER YOU WANT License
-                      Version 0.91, October 2017
+                     Version 0.92, October 2017
 
 Copyright (c) 2017 Jade Thornton
 
-Permission is hereby granted, without limitation, to use, copy, modify, 
-and/or distribute this software for any purpose with or without fee, 
+Permission is hereby granted, without limitation, to use, copy, modify,
+sublicense and/or distribute this software for any purpose with or without fee,
 subject to only the following conditions:
 
 0. This copyright notice and permission notice must appear in all copies
 1. That's it, just do whatever you want
 
-This program is free software. The software is provided "as is" without 
-any warranty whatsoever, to the extent permitted by law.
+This program is free software. The software is provided "as is" without any
+warranty whatsoever, to the extent permitted by law.
