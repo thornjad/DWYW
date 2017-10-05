@@ -30,7 +30,7 @@ Because I DON'T LIKE WHEN THINGS YELL AT ME FOR NO REASON.
 
 **Why not just use public domain instead of a license like this?**
 
-Public domain is a term which has varying definitions in different places, including defining who can even put works into it. This license makes it very clear.
+Public domain is a term which has varying definitions in different places, including defining who can even put works into it. This license makes intent very clear.
 
 **Can I fork some DWYW software for free and then sell it for money?**
 
